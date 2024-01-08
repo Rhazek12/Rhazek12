@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/césar alberto becerra ramírez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césar alberto becerra ramírez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/c%C3%A9sar-alberto-becerra-ram%C3%ADrez-b127882a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="césar alberto becerra ramírez" height="30" width="40" /></a>
 <a href="https://instagram.com/rha_bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rha_bera" height="30" width="40" /></a>
 </p>
 
